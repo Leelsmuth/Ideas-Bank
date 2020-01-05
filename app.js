@@ -4,7 +4,6 @@ const path = require('path');
 const methodOverride = require('method-override');
 const flash = require('connect-flash');
 const session = require('express-session');
-const bodyParser = require('body-parser');
 const passport = require('passport');
 const mongoose = require('mongoose');
 
